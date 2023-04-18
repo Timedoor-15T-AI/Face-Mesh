@@ -17,3 +17,5 @@
     source .venv/bin/activate
    ```
 5. Install the requirements using ` pip install -r requirements.txt`
+6. Change the opencv version to 4.6.0.66 using `pip install opencv-python==4.6.0.66`
+7. Chang the opencv-contrib version to 4.5.5.62 using `pip install opencv-contrib-python==4.5.5.62`
